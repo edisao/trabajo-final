@@ -11,10 +11,12 @@ Integrantes:
 - Galo Medina
 
 # Capturas
+## Contrucción de la placa Arduino
 ![alt text](https://github.com/edisao/trabajo-final/blob/main/images/image-1.png?raw=true)
 
 ![alt text](https://github.com/edisao/trabajo-final/blob/main/images/image-2.png?raw=true)
 
+## Contrucción del API Rest y aplicativo para visualizar la data registrada
 ![alt text](https://github.com/edisao/trabajo-final/blob/main/images/image-3.png?raw=true)
 
 ![alt text](https://github.com/edisao/trabajo-final/blob/main/images/image-4.png?raw=true)
