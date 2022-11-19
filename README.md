@@ -11,6 +11,9 @@ Integrantes:
 - Galo Medina
 
 # Capturas
+## Arquitectura
+![alt text](https://github.com/edisao/trabajo-final/blob/main/images/image-5.png?raw=true)
+
 ## Contrucción de la placa Arduino
 ![alt text](https://github.com/edisao/trabajo-final/blob/main/images/image-1.png?raw=true)
 
