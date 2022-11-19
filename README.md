@@ -11,10 +11,10 @@ Integrantes:
 - Galo Medina
 
 # Capturas
-![alt text](https://github.com/edisao/trabajo-final/blob/main/images/imagen-1.png?raw=true)
+![alt text](https://github.com/edisao/trabajo-final/blob/main/images/image-1.png?raw=true)
 
-![alt text](https://github.com/edisao/trabajo-final/blob/main/images/imagen-2.png?raw=true)
+![alt text](https://github.com/edisao/trabajo-final/blob/main/images/image-2.png?raw=true)
 
-![alt text](https://github.com/edisao/trabajo-final/blob/main/images/imagen-3.png?raw=true)
+![alt text](https://github.com/edisao/trabajo-final/blob/main/images/image-3.png?raw=true)
 
-![alt text](https://github.com/edisao/trabajo-final/blob/main/images/imagen-4.png?raw=true)
+![alt text](https://github.com/edisao/trabajo-final/blob/main/images/image-4.png?raw=true)
