@@ -78,7 +78,7 @@ void EnvioDatos(){
   
   if (WiFi.status() == WL_CONNECTED){ 
      HTTPClient http;  // creo el objeto http
-     http.begin("https://ecommerce.vallext.com/api/v1/service/iot");
+     http.begin("https://url.base.com/api/v1/service/iot");
      http.addHeader("Content-Type", "application/json"); // defino texto plano..
      Serial.println("temperatura***:" + String(tempC));
     
